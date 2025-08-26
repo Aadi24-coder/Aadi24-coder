@@ -10,7 +10,6 @@
 <a target="_blank" href="https://www.instagram.com/aadi_agwl" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aadi24-coder&show_icons=true&locale=en" alt="Aadi24-coder" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi24-coder&" alt="Aadi24-coder" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aadi24-coder" alt="Aadi24-coder" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/CodingFuel">
