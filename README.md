@@ -1,3 +1,8 @@
-<h1>Hi there 👋,
-  I'm Aadi Agarwal</h1>
-<p>Aspiring Software Engineer | B.Tech CSE @ University of petroleum and energy studies | Passionate about Problem Solving & Full-Stack Development. </p>
+<h1>Hi there 👋</h1>
+<p> I am Aadi Agarwal | Aspiring Software Engineer | B.Tech CSE @ University of petroleum and energy studies | Passionate about Problem Solving & Full-Stack Development. </p>
+Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing. I also enjoy writing blog posts and sharing Memes accross instagram .
+
+Fun Facts:
+Fun Facts:
+• I am a gamer 
+• Demon Slayer is my favorite anime.
