@@ -3,6 +3,5 @@
 Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing. I also enjoy writing blog posts and sharing Memes accross instagram .
 
 Fun Facts:
-Fun Facts:
 • I am a gamer 
 • Demon Slayer is my favorite anime.
