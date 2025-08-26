@@ -20,6 +20,6 @@ I am a **B.Tech Computer Science** student at the **University of Petroleum and 
 
 ### 📫 Let's Connect!
 <p align="left">
-<a href=“https://www.instagram.com/aadi_agwl/“ target=“blank”><img align=“center” src=“https://skillicons.dev/icons?i=instagram” alt=“My Instagram” height=“40” width=“40” /></a>
-<a href="mailto:aadiagarwal65@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="My Email" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/aadi_agwl/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="aadi_agwl" height="40" width="40" /></a>
+  <a href="mailto:aadiagarwal65@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="aadiagarwal65@gmail.com" height="40" width="40" /></a>
 </p>
