@@ -20,6 +20,6 @@
 <p>
 <a href="https://www.ko-fi.com/Koffee_latte">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
-</a>[![trophy](https://github-profile-trophy.vercel.app/?Aadi24-coder=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+</a>
 </p>
 </p>
