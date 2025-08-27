@@ -8,7 +8,7 @@
 I am a **B.Tech Computer Science** student at the **University of Petroleum and Energy Studies (UPES)** in Dehradun. I am passionate about web development and building useful applications.
 
 - 🌱 I’m currently learning more about advanced front-end and back-end technologies.
--  hobbies Outside of code and Figma, you'll find me watching anime, hitting the gym, or drawing.
+-  hobbies Outside of code and Figma, you'll find me watching anime, hitting the gym, or gaming.
 - ⚡ **Fun Fact:** I'm a gamer and my favorite anime is Bleach!
 
 ---
