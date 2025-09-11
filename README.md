@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **B.Tech Computer Science** student at the **University of Petroleum and Energy Studies (UPES)** in Dehradun. I am passionate about web development and building useful applications.
+I am a **B.Tech Computer Science** student at the **University of Petroleum and Energy Studies (UPES)** in Dehradun. I am passionate about Ai/Ml and building useful applications.
 
 - 🌱 I’m currently learning more about advanced front-end and back-end technologies.
 -  hobbies Outside of code and Figma, you'll find me watching anime, hitting the gym, or gaming.
